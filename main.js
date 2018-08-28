@@ -1,0 +1,1 @@
+alert("Thanks for visiting my blog. remember to leave your feedback in the comment section!!");
